@@ -16,7 +16,7 @@ Nome dos integrantes:
 <p align="center">
   Esse projeto foi desvolvido usando a API da Labenu - Labefood, como referência e tem o objetivo de aplicar 
   os conteúdos visto até a semana 13 no curso da Labenu.
-  O Proeto reproduz uma versão do app UberEats, foi utilizado um modelo de layout oferecido pelo curso. 
+  O Projeto reproduz uma versão do app UberEats, foi utilizado um modelo de layout oferecido pelo curso. 
   É possível se cadastrar e ao fazer o login, visualizar uma lista
   de resaurantes e ao selecionar um restaurente você pode ver suas informações e produtos, 
   bem como adicionar ou remover um produto ao carrinho. Tembém pode acessar seu 
